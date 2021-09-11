@@ -1,0 +1,25 @@
+{
+  "name": "OASISwap Hosted List",
+  "logoURI": "https://tokens.oasiswap.finance/logo/logo.svg",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "name": "OASIS Token",
+      "symbol": "OST",
+      "address": "0x797c6ddb39fab79c63a8c4b2cc70a4b9c1c06ff2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.oasiswap.finance/logo/logo.svg"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+}
