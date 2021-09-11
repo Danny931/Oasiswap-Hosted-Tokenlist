@@ -1,6 +1,6 @@
 {
   "name": "OASISwap Hosted List",
-  "logoURI": "https://oasiswap.finance/img/logo.svg",
+  "logoURI": "https://github.com/Danny931/Oasiswap-Hosted-Tokenlist/blob/main/logo.svg",
   "keywords": [
       "defi",
       "DEFI",
@@ -14,7 +14,7 @@
       "address": "0x797c6ddb39fab79c63a8c4b2cc70a4b9c1c06ff2",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://oasiswap.finance/img/logo.svg"
+      "logoURI": "https://github.com/Danny931/Oasiswap-Hosted-Tokenlist/blob/main/logo.svg"
       }
     ],
     "version": {
