@@ -17,14 +17,6 @@
       "logoURI": "https://tokens.oasiswap.finance/logo.svg"
       },
       {
-      "name": "PancakeSwap Token",
-      "symbol": "CAKE",
-      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
-      },
-      {
       "name": "Binance Pegged USDT",
       "symbol": "USDT",
       "address": "0x55d398326f99059fF775485246999027B3197955",
@@ -36,6 +28,6 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     }
 }
