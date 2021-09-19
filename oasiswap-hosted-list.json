@@ -14,7 +14,7 @@
       "address": "0x797c6ddb39fab79c63a8c4b2cc70a4b9c1c06ff2",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "logo.svg"
+      "logoURI": "https://token.oasiswap.finance/logo.svg"
       },
       {
       "name": "Binance Pegged USDT",
